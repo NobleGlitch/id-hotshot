@@ -1,29 +1,17 @@
-# ID Hotshot
+# ID Hotshot Transportation
 
-The Idaho-region hotshot trucking site, powered by the NobleDispatch engine.
-Loads, lanes, and quarterly IFTA reporting for owner-operators.
+**Woman-owned hotshot carrier. Arizona and Colorado. Built on Noble Dispatch.**
 
-**Status:** Live · **Code:** Private
+Live at [idhotshot.com](https://idhotshot.com) â USDOT 4559278 Â· Fully Insured Â· 24/7 Dispatch
 
----
+This repo contains the public-facing site for ID Hotshot Transportation: instant rate calculator, real-time booking calendar, AI dispatch chat assistant (Danielle), and company info.
 
-## What it is
+The dispatch operations run on [Noble Dispatch](https://nobledispatch.idhotshot.com) â a custom-built TMS by The Noble Glitch.
 
-A regional instance of the [NobleDispatch](https://github.com/desertshibari-crypto/nobledispatch)
-white-label engine, themed and configured for Idaho hotshot work.
+## Stack
 
-## Features
+Next.js 14 Â· TypeScript Â· Tailwind CSS Â· Anthropic API (AI dispatcher)
 
-- Load posting and matching
-- Quarterly IFTA (fuel-tax) reporting module — generates filing-ready reports
-- Operator-facing dispatch tooling
-- Branded landing for the ID Hotshot identity
+## Contact
 
-## Related
-
-- White-label engine: [NobleDispatch](https://github.com/desertshibari-crypto/nobledispatch)
-- More platforms: see my [profile](https://github.com/desertshibari-crypto)
-
----
-
-📧 desertshibari@gmail.com
+[idhotshot.com](https://idhotshot.com) Â· (520) 239-9422 Â· Built by [The Noble Glitch](https://thenobleglitch.com)
